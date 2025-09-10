@@ -39,7 +39,9 @@ cd Verificador_Datos
 
 # Tecnologias:
 >HTML5
+
 >CSS3
+
 >JavaScript
 
 # Licencia:
