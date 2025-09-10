@@ -10,11 +10,15 @@ Verificador de varios campos como el nombre, la edad, la contraseña, y el corre
 
 # Caracteristicas:
 - Verificador de 4 campos:
-> >Nombre (Dos palabras, la primera de Ambas en mayusculas)
-> >Edad (Entre 18 y 55)
-> >Correo Electronico (Dominio obligatorio de @gmail.com)
-> >Password (entre 6 y 25 caracteres, 6-10->debil, 11-20->robusta, 20-25->Muy robusta)
-> >Login exitoso
+> Nombre (Dos palabras, la primera de Ambas en mayusculas)
+
+> Edad (Entre 18 y 55)
+
+> Correo Electronico (Dominio obligatorio de @gmail.com)
+
+> Password (entre 6 y 25 caracteres, 6-10->debil, 11-20->robusta, 20-25->Muy robusta)
+
+> Login exitoso
 
 # Instalacion:
 ```bash
